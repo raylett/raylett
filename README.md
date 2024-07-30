@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Iyanuoluwa Ogunsola (@CSC/18U/4414)
+- 👀 I’m interested in python
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on AI, assembly language, and forex trading
+- 📫 How to reach me 18u4414@student.mau.edu.ng
